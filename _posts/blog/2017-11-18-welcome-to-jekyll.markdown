@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "(Links to Jekyll Documentation) -To be removed "
 date:   2017-11-18 12:16:11 +0100
 categories: jekyll update

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 'Generating a template for a new blogpost'
+layout: post
+title: 'Generating a markdown template for new blogposts'
 featured_image: ''
 comments: false
 tags: post, code, scipting, 
