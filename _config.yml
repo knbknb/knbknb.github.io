@@ -24,7 +24,8 @@ url: https://knbknb.github.io
 twitter_username: sudo_f
 github_username:  knbknb
 google_analytics: true
-disqus.shortname: knbghio.disqus.com
+disqus_shortname: knbghio.disqus.com
+permalink: /blog/:title
 # Build settings
 markdown: kramdown
 theme: minima
