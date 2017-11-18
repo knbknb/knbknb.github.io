@@ -64,6 +64,4 @@ summary: 'Summary here'
 
 which you can further customize.
 
-This script comes from atraining video in *"
-PLURALSIGHT
-Serverless Web Applications"* and has been modified by me.
+I've seen this script in a training video in the course [*"Serverless Web Applications"*](https://app.pluralsight.com/library/courses/web-applications-without-server/) ( by Rob Conery), and then I modified the script.
