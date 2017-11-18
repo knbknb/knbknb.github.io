@@ -27,7 +27,7 @@ layout: post
 title: '$1'
 featured_image: ''
 comments: false
-ntags: 
+tags:  
 summary: 'Summary here'
 
 ---
@@ -43,3 +43,27 @@ END
 }
 
 ```
+
+Executing `new_post "exciting News!"` on the bash command line  will then create a new file  in the subdirectory `_posts/`. It will be named
+`_posts/2017-11-18-exciting-news-.md` and contain this markdown:
+
+```
+---
+layout: post
+title: 'Exciting news!'
+featured_image: ''
+comments: false
+tags: 
+summary: 'Summary here'
+---
+  
+## Some heading  
+  
+
+```
+
+which you can further customize.
+
+This script comes from atraining video in *"
+PLURALSIGHT
+Serverless Web Applications"* and has been modified by me.
