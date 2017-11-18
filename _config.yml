@@ -16,7 +16,8 @@
 title: Neglecticism today
 email: knbknb00@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Musings about my personal interests:  geosciences, datasciences, photography, and more.
+    Musings about my personal interests:  geosciences, datasciences, 
+    coding, photography, and more.
 #baseurl: /blog
 # the base hostname & protocol for your site, e.g. http://example.com
 url: https://knbknb.github.io
