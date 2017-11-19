@@ -32,7 +32,7 @@ theme: minima
 comments: true #disqus
 plugins:
   - jekyll-feed
-
+exclude: [R, knbknb.github.io.Rproj]
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
