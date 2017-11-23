@@ -12,7 +12,7 @@ summary: 'It is not so easy to deploy Rmarkdown to jekyll/github. Rstudio/Netlif
 #### Seems to be better than the combination of Jekyll/github.com, easier to use with rstudio?
 
 I work a lot inside RStudio, but this IDE supports a different platform,
-<a href="https://gohugo.io/"> Hugo</a>. It is also a better
+<a href="https://gohugo.io/"> Hugo</a>. The publishing workflow is also a better
 <a href="https://https://bookdown.org/yihui/blogdown/">documented</a>.
 
 In any case, more here: [kbehrends.netlify.com](https://kbehrends.netlify.com).
