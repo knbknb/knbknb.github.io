@@ -29,7 +29,7 @@ permalink: /blog/:title
 # Build settings
 markdown: kramdown
 theme: minima
-comments: true #disqus
+comments: false #disqus
 plugins:
   - jekyll-feed
 exclude: [R, knbknb.github.io.Rproj]
